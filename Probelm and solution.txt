@@ -1,0 +1,16 @@
+#Cors problem
+https://medium.com/flutter-community/flutter-web-for-an-enterprise-app-a056fb4e26d1
+https://stackoverflow.com/questions/65630743/how-to-solve-flutter-web-api-cors-error-only-with-dart-code
+
+#null safety
+https://dart.dev/null-safety/migration-guide
+
+
+#Custom progress bar
+https://medium.com/nerd-for-tech/showing-a-progress-indicator-easily-in-flutter-aa564eb0df5c
+
+#Json to model convert
+https://app.quicktype.io/
+
+
+https://dev.to/thepythongeeks/step-by-step-to-store-data-locally-in-flutter-1mc9

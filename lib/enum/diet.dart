@@ -1,0 +1,4 @@
+enum Diet {
+	veg,
+	nonVeg,
+}
